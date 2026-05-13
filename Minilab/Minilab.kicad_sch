@@ -6223,10 +6223,10 @@
 		(uuid "87b3701d-c021-4f6a-a957-d7cc14182e9e")
 	)
 	(junction
-		(at 99.06 35.56)
+		(at 99.06 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "916ebe7d-09a9-44f4-b6e8-a7a3bad3900c")
+		(uuid "975d6640-800b-46da-8425-f15160217856")
 	)
 	(junction
 		(at 259.08 41.91)
@@ -6245,12 +6245,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c62b92ab-27c3-4d27-96ee-7af648ccfaff")
-	)
-	(junction
-		(at 210.82 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ce60ec84-f6a3-4152-8746-c2eeefd27423")
 	)
 	(junction
 		(at 124.46 67.31)
@@ -6820,7 +6814,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 35.56) (xy 99.06 41.91)
+			(xy 99.06 35.56) (xy 99.06 38.1)
 		)
 		(stroke
 			(width 0)
@@ -6957,6 +6951,16 @@
 			(type default)
 		)
 		(uuid "4e77f4a5-a827-4507-b378-6ffeceb5e63d")
+	)
+	(wire
+		(pts
+			(xy 99.06 38.1) (xy 99.06 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f07bf2a-1bc6-49df-8688-2a43ef94b658")
 	)
 	(wire
 		(pts
@@ -7420,16 +7424,6 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 110.49) (xy 210.82 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80a8b8ea-4c1d-4557-ad23-82ebe29fe631")
-	)
-	(wire
-		(pts
 			(xy 78.74 110.49) (xy 91.44 110.49)
 		)
 		(stroke
@@ -7807,16 +7801,6 @@
 			(type default)
 		)
 		(uuid "ad7af028-d256-4d5d-9358-faf83c7bee81")
-	)
-	(wire
-		(pts
-			(xy 99.06 35.56) (xy 101.6 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b073069d-e14c-4d36-8b61-9b7fc98011d9")
 	)
 	(wire
 		(pts
@@ -8340,6 +8324,16 @@
 	)
 	(wire
 		(pts
+			(xy 99.06 38.1) (xy 101.6 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efe1e8e5-96c8-421d-885e-651b39cb5b1a")
+	)
+	(wire
+		(pts
 			(xy 144.78 64.77) (xy 158.75 64.77)
 		)
 		(stroke
@@ -8477,30 +8471,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "5V USB"
-		(shape input)
-		(at 33.02 91.44 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0ca5f670-fafe-430b-ada8-159cc47e7b39")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.9591 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -8840,30 +8810,6 @@
 			)
 		)
 	)
-	(global_label "5V"
-		(shape input)
-		(at 101.6 35.56 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5ccc2f72-9d78-4519-8801-448cb64a0e40")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 106.8833 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "E3"
 		(shape input)
 		(at 125.73 154.94 0)
@@ -8912,30 +8858,6 @@
 			)
 		)
 	)
-	(global_label "5V"
-		(shape input)
-		(at 33.02 95.25 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "62ed21fe-689f-429e-9551-98a00e4b4f58")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 27.7367 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "E5"
 		(shape input)
 		(at 260.35 120.65 0)
@@ -8949,6 +8871,30 @@
 		(uuid "6d0be602-6f02-4282-b959-6c1a7cda0374")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 265.6937 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "5V USB"
+		(shape input)
+		(at 101.6 38.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7d25e9a9-51b3-4380-93bc-b8a20117e664")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 111.6609 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9392,30 +9338,6 @@
 			)
 		)
 	)
-	(global_label "5V"
-		(shape input)
-		(at 210.82 110.49 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e6e5a4ae-be84-462f-8fb7-efe117c79990")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 205.5367 110.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "E5"
 		(shape input)
 		(at 125.73 160.02 0)
@@ -9437,30 +9359,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "5V USB"
-		(shape input)
-		(at 210.82 115.57 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f3196746-c631-443a-85f5-82af0fdccd30")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 200.7591 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -11190,7 +11088,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND 1"
 			(at 38.1 193.04 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12708,7 +12606,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND 1"
 			(at 60.96 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12769,8 +12667,8 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14704,7 +14602,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND 2"
 			(at 41.91 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14911,6 +14809,83 @@
 			(project "Minilab"
 				(path "/42f973db-d6e2-440d-9388-60b5f6dca35f"
 					(reference "#FLG02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 33.02 91.44 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "cfb7313f-1bad-4cae-a985-1297436d759c")
+		(property "Reference" "#FLG05"
+			(at 33.02 89.535 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 33.02 86.614 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 33.02 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 33.02 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1d57bfb0-d8fb-464e-bc24-887710fe100b")
+		)
+		(instances
+			(project "Minilab"
+				(path "/42f973db-d6e2-440d-9388-60b5f6dca35f"
+					(reference "#FLG05")
 					(unit 1)
 				)
 			)
