@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.11)  13 MAY 2026 12:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.5.11)  13 MAY 2026 12:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1182,6 +1182,9 @@ LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
 (babel)             Reported  on input line 13.
+
+<Reading QR code for "https://github.com/Enig17/Minilab/blob/e52050b55164b2b7c8
+51671032eec42dd64bc2e2/Informe/TP0.pdf" at level 6-M from aux file.>
 )
 \openout1 = `TP0.aux'.
 
@@ -1335,17 +1338,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-19.09483pt}.
 
 [3]
-<4049.png, id=78, 252.19218pt x 178.41656pt>
+<4049.png, id=83, 252.19218pt x 178.41656pt>
 File: 4049.png Graphic file (type png)
 <use 4049.png>
 Package pdftex.def Info: 4049.png  used on input line 240.
 (pdftex.def)             Requested size: 217.66211pt x 153.98788pt.
-<7805.png, id=81, 201.75375pt x 115.93312pt>
+<7805.png, id=86, 201.75375pt x 115.93312pt>
 File: 7805.png Graphic file (type png)
 <use 7805.png>
 Package pdftex.def Info: 7805.png  used on input line 248.
 (pdftex.def)             Requested size: 145.11053pt x 83.38509pt.
-<555.png, id=83, 298.86656pt x 170.13562pt>
+<555.png, id=88, 298.86656pt x 170.13562pt>
 File: 555.png Graphic file (type png)
 <use 555.png>
 Package pdftex.def Info: 555.png  used on input line 256.
@@ -1354,7 +1357,7 @@ Package pdftex.def Info: 555.png  used on input line 256.
 
 pdfTeX warning: pdflatex.exe (file ./minilab a.pdf): PDF inclusion: found PDF v
 ersion <1.7>, but at most version <1.5> allowed
-<minilab a.pdf, id=85, page=1, 794.97pt x 614.295pt>
+<minilab a.pdf, id=90, page=1, 794.97pt x 614.295pt>
 File: minilab a.pdf Graphic file (type pdf)
 <use minilab a.pdf, page 1>
 Package pdftex.def Info: minilab a.pdf , page1 used on input line 263.
@@ -1386,7 +1389,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-19.09483pt}.
 
 [5 <./minilab a.pdf>]
-<placa.png, id=106, 583.42969pt x 237.88875pt>
+<placa.png, id=111, 583.42969pt x 237.88875pt>
 File: placa.png Graphic file (type png)
 <use placa.png>
 Package pdftex.def Info: placa.png  used on input line 270.
@@ -1396,12 +1399,12 @@ Package pdftex.def Info: placa.png  used on input line 270.
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 287.
 
-<Impresion.jpeg, id=107, 903.375pt x 1606.0pt>
+<Impresion.jpeg, id=112, 903.375pt x 1606.0pt>
 File: Impresion.jpeg Graphic file (type jpg)
 <use Impresion.jpeg>
 Package pdftex.def Info: Impresion.jpeg  used on input line 294.
 (pdftex.def)             Requested size: 193.47578pt x 343.95998pt.
-<transferencia.jpeg, id=108, 903.375pt x 1606.0pt>
+<transferencia.jpeg, id=113, 903.375pt x 1606.0pt>
 File: transferencia.jpeg Graphic file (type jpg)
 <use transferencia.jpeg>
 Package pdftex.def Info: transferencia.jpeg  used on input line 304.
@@ -1416,12 +1419,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-19.09483pt}.
 
 [6 <./placa.png> <./Impresion.jpeg>]
-<quimico.jpeg, id=119, 903.375pt x 1606.0pt>
+<quimico.jpeg, id=124, 903.375pt x 1606.0pt>
 File: quimico.jpeg Graphic file (type jpg)
 <use quimico.jpeg>
 Package pdftex.def Info: quimico.jpeg  used on input line 316.
 (pdftex.def)             Requested size: 193.47578pt x 343.95998pt.
-<terminado1.jpeg, id=120, 903.375pt x 1606.0pt>
+<terminado1.jpeg, id=125, 903.375pt x 1606.0pt>
 File: terminado1.jpeg Graphic file (type jpg)
 <use terminado1.jpeg>
 Package pdftex.def Info: terminado1.jpeg  used on input line 326.
@@ -1436,17 +1439,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-19.09483pt}.
 
 [7 <./transferencia.jpeg> <./quimico.jpeg>]
-<terminado2.jpeg, id=128, 903.375pt x 1606.0pt>
+<terminado2.jpeg, id=133, 903.375pt x 1606.0pt>
 File: terminado2.jpeg Graphic file (type jpg)
 <use terminado2.jpeg>
 Package pdftex.def Info: terminado2.jpeg  used on input line 332.
 (pdftex.def)             Requested size: 193.47578pt x 343.95998pt.
-<gabinete.png, id=129, 802.49812pt x 505.89pt>
+<gabinete.png, id=134, 802.49812pt x 505.89pt>
 File: gabinete.png Graphic file (type png)
 <use gabinete.png>
 Package pdftex.def Info: gabinete.png  used on input line 338.
 (pdftex.def)             Requested size: 290.22107pt x 182.95393pt.
-<final.jpeg, id=130, 903.375pt x 1606.0pt>
+<final.jpeg, id=135, 903.375pt x 1606.0pt>
 File: final.jpeg Graphic file (type jpg)
 <use final.jpeg>
 Package pdftex.def Info: final.jpeg  used on input line 344.
@@ -1463,6 +1466,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [8 <./terminado1.jpeg> <./terminado2.jpeg> <./gabinete.png>]
 
 
+<QR code requested for "https://github.com/Enig17/Minilab/blob/e52050b55164b2b7
+c851671032eec42dd64bc2e2/Informe/TP0.pdf" in version 0-M.>
+
+<Copying the QR code for "https://github.com/Enig17/Minilab/blob/e52050b55164b2
+b7c851671032eec42dd64bc2e2/Informe/TP0.pdf" in version 6-M as previously calcul
+ated.>
+
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 31.09483pt, for example:
 (fancyhdr)                \setlength{\headheight}{31.09483pt}.
@@ -1472,46 +1484,51 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [9 <./final.jpeg>]
 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
-runsystem(latexminted cleantemp  --timestamp 20260513123630 B1965EBADFF29A54052
+runsystem(latexminted cleantemp  --timestamp 20260513124658 B1965EBADFF29A54052
 D6B1811453F25)...disabled (restricted).
 
 (TP0.aux
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
+
+<Reading QR code for "https://github.com/Enig17/Minilab/blob/e52050b55164b2b7c8
+51671032eec42dd64bc2e2/Informe/TP0.pdf" at level 6-M from aux file.>
 )
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
 Package rerunfilecheck Info: File `TP0.out' has not changed.
-(rerunfilecheck)             Checksum: 3742A59544C4730F66D4A2D8F6D1F285;1541.
+(rerunfilecheck)             Checksum: 431A92E20252D6A010A351FCB76FBE6E;1696.
  ) 
 Here is how much of TeX's memory you used:
- 41387 strings out of 469941
- 943002 string characters out of 5469430
- 1522751 words of memory out of 5000000
- 67535 multiletter control sequences out of 15000+600000
- 641878 words of font info for 79 fonts, out of 8000000 for 9000
+ 41409 strings out of 469941
+ 943542 string characters out of 5469430
+ 1597553 words of memory out of 5000000
+ 67552 multiletter control sequences out of 15000+600000
+ 645292 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,16n,107p,726b,897s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,16n,107p,1950b,897s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\scanf\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt
-1000.pk> <C:\Users\scanf\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecbx1000.pk> <C:\Users\scanf\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\tcrm1200.pk> <C:\Users\scanf\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecbx1200.pk> <C:\Users\scanf\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\scanf\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\scanf\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\tcbx2488.pk> <C:\Users\scanf\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\scanf\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\scanf\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\scanf\
-AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk><C:/Users/s
-canf/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C
-:/Users/scanf/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
-2.pfb>
-Output written on TP0.pdf (10 pages, 1229240 bytes).
+1095.pk> <C:\Users\scanf\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecbx1095.pk> <C:\Users\scanf\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ectt1000.pk> <C:\Users\scanf\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecbx1000.pk> <C:\Users\scanf\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\scanf\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\scanf\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\scanf\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\scanf\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx2488.pk> <C:\Users\scanf\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\scanf\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\
+scanf\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\
+Users\scanf\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk
+><C:/Users/scanf/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mmi12.pfb><C:/Users/scanf/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr12.pfb>
+Output written on TP0.pdf (10 pages, 1247690 bytes).
 PDF statistics:
- 490 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
- 145 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 546 PDF objects out of 1000 (max. 8388607)
+ 29 named destinations out of 1000 (max. 500000)
+ 153 words of extra memory for PDF output out of 10000 (max. 10000000)
 
